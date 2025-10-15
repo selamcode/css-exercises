@@ -1,1 +1,21 @@
-/* Add CSS Styling */
+.container .text{
+    text-align: center;
+    color: red;
+    background-color: yellow;
+    font-size: 20px;
+}
+/* You can also use tags as decendent combination 
+
+- You don't have to stick to class names
+- Other possible soltions(combinations) for this can be:
+
+1.  div p{
+    }
+
+2. div .text{
+   }
+
+3. .container p{
+   }
+
+*/
