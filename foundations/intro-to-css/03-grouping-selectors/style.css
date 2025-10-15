@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+/* Here we are selecting in group */
+.first-button,.second-button{
+    font-family:Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+/* Selecting individually */
+.first-button{
+    background-color: black;
+    color: white;
+}
+/* Selecting individually */
+.second-button{
+    background-color: yellow;
+}
